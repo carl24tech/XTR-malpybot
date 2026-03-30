@@ -14,7 +14,7 @@
 
 ## ⚠️ API Status
 
-> **🚧 UNDER DEVELOPMENT:** We are currently building the REST API. The CLI tool is fully functional and production-ready. API endpoints and documentation will be released in Q2 2024.
+> **🚧 UNDER DEVELOPMENT:** We are currently building the REST API. The CLI tool is fully functional and production-ready. API endpoints and documentation will be released in Q2 2026.
 
 ---
 
