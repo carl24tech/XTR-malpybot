@@ -33,11 +33,11 @@
 
 ```bash
 # Install from GitHub
-pip install git+https://github.com/xtrsoftwares/xtr-malware-scanner.git
+pip install git+https://github.com/xtrsoftwares/malpybot-scanner.git
 
 # Or clone and install
-git clone https://github.com/xtrsoftwares/xtr-malware-scanner.git
-cd xtr-malware-scanner
+git clone https://github.com/xtrsoftwares/malpybot-scanner.git
+cd malpybot
 pip install -e .
 ```
 
