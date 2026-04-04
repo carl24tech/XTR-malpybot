@@ -1,8 +1,4 @@
-#!/usr/bin/env python3
-"""
-XTR Malware Scanner - Professional Malware Detection Tool
-Brand: XTR Softwares
-"""
+
 
 from setuptools import setup, find_packages
 
